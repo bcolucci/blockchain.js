@@ -1,0 +1,9 @@
+{
+  "name": "blockchain.js",
+  "version": "0.0.1",
+  "description": "A tiny JavaScript Blockchain implementation",
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
